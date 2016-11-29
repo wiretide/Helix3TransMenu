@@ -1,0 +1,12 @@
+.menu-fixed#sp-header {
+  background: rgba(0, 0, 0, 0) !important;
+  box-shadow: none;
+}
+
+.menu-fixed#sp-header .logo img {
+  width: 100% !important;
+}
+div#sp-header-sticky-wrapper #sp-header {
+  box-shadow: none;
+  background: rgba(0, 0, 0, 0);
+}
